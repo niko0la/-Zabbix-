@@ -41,8 +41,8 @@
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/niko0la/-Zabbix-/blob/main/1-1.png)
+![Image alt](https://github.com/niko0la/-Zabbix-/blob/main/1-2.png)
 ---
 
 ### Задание 2 
@@ -61,9 +61,9 @@
 2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
-![Image alt]()
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/niko0la/-Zabbix-/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/-Zabbix-/blob/main/2-2.png)
+![Image alt](https://github.com/niko0la/-Zabbix-/blob/main/2-3.png)
 ---
 ## Задание 3 со звёздочкой*
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
